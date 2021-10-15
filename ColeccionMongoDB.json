@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "615f7ccce9732fa6c42e2b7e"
+  },
+  "name": "Juan",
+  "linkedin": "juanperez",
+  "description": "Excelente",
+  "web": true
+},{
+  "_id": {
+    "$oid": "615f8182e9732fa6c42e2b84"
+  },
+  "name": "Lucia",
+  "linkedin": "luciagonzalez",
+  "description": "Bueno",
+  "web": true,
+  "pass": "123"
+},{
+  "_id": {
+    "$oid": "615f8182e9732fa6c42e2b85"
+  },
+  "name": "Lucas",
+  "linkedin": "lucass",
+  "description": "Me encanta",
+  "web": true
+},{
+  "_id": {
+    "$oid": "6168c438ab503b42b3ec33d6"
+  },
+  "name": "Maximiliano",
+  "linkedin": "mcolombatti",
+  "description": "me gustaria que muestren mas imagenes",
+  "web": false
+}]
